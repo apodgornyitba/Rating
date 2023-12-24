@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Overpass-Bold';
+    src: url('fonts/static/Overpass-Bold.ttf') format('truetype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Overpass-Regular';
+    src: url('fonts/static/Overpass-Regular.ttf') format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Overpass-Variable';
+    src: url('fonts/Overpass-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Overpass-Regular', sans-serif !important;
+}
