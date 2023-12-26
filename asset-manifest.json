@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Rating/static/css/main.ed68da70.css",
+    "main.js": "/Rating/static/js/main.9701c73a.js",
+    "static/media/Overpass-VariableFont_wght.ttf": "/Rating/static/media/Overpass-VariableFont_wght.f0f60ff011440e03864e.ttf",
+    "static/media/Overpass-Bold.ttf": "/Rating/static/media/Overpass-Bold.84af8c874f2e17cf2459.ttf",
+    "static/media/Overpass-Regular.ttf": "/Rating/static/media/Overpass-Regular.9e68e5084e70ff478b48.ttf",
+    "static/media/illustration-thank-you.svg": "/Rating/static/media/illustration-thank-you.d74a66b551b99ae110b5362ed63106bf.svg",
+    "index.html": "/Rating/index.html",
+    "static/media/icon-star.svg": "/Rating/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
+    "main.ed68da70.css.map": "/Rating/static/css/main.ed68da70.css.map",
+    "main.9701c73a.js.map": "/Rating/static/js/main.9701c73a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed68da70.css",
+    "static/js/main.9701c73a.js"
+  ]
+}
