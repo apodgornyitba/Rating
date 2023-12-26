@@ -1,0 +1,32 @@
+.MainComponent {
+    background: radial-gradient(circle at center top,hsla(213, 19%, 18%, 1), hsla(216, 12%, 8%, 1));
+    max-width: 400px;
+    max-height: 400px;
+}
+
+.IconBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: hsl(213, 19%, 18%);
+    border-radius: 25px;
+    width: 50px;
+    height: 50px;
+}
+
+.ButtonsBox{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.SubmitBox{
+    margin-top: 40px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+
+}
